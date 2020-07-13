@@ -2,7 +2,7 @@
 
 ### CSS Basics
 
-### some basic styles
+#### some basic styles
 
 - **font-size** : sets the font size.
 - **color** : change the color of the text
