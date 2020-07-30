@@ -1,0 +1,24 @@
+body {
+    background-color: #343837;
+    color: #FDDC5C;
+}
+
+header {
+    color: #FDDC5C;
+    width: 100px;
+    padding: 25px;
+    margin: 25px;
+    border-left: 13px solid #FA4224;
+    border-radius: 0px;
+}
+
+main {
+    padding: 25px;
+    margin: 25px;
+    border-left: 13px solid #FA4224;
+    border-radius: 0px;
+}
+
+footer {
+    margin: 63px;
+}

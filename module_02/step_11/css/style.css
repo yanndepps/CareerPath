@@ -1,0 +1,13 @@
+body {
+    background-color: #475F94;
+    color: #FA4224;
+}
+
+header {
+    background-color: #FDDC5C;
+    color: #FA4224;
+    border-radius: 8px;
+    width: 100px;
+    margin: 50px 10px;
+    padding: 20px;
+}
