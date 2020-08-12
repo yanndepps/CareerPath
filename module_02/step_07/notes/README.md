@@ -1,5 +1,16 @@
-## Notes
+# Notes
 
+- [Notes](#notes)
+  - [inline](#inline)
+  - [selector](#selector)
+  - [property](#property)
+  - [value](#value)
+  - [declaration](#declaration)
+  - [rule](#rule)
+  - [selecting elements](#selecting-elements)
+
+
+## inline
 - in general inline CSS is never used.
   use a stylesheet to make global changes.
 - we can use an internal stylesheet that is placed
@@ -12,7 +23,7 @@
   </head>
   ```
   
-### Selector
+## selector
 - what are we selecting
   ```
   body {
@@ -20,28 +31,28 @@
   }
   ```
 
-### Property
+## property
 - the property of our element(s) that we wish to change
   ```
   color: #323232;
   ```
   
-### Value
+## value
 - the value we are assigning to that property
   ```
   #323232;
   ```
   
-### Declaration
+## declaration
 - the property: value pair
   ```
   color: #323232;
   ```
   
-### Rule
+## rule
 - made up of a **selector** and **property: value** declarations
 
-### Selecting elements
+## selecting elements
 - write the element, but without the **< >**
 - do **NOT** include attributes
 ```

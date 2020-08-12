@@ -1,6 +1,6 @@
-## Notes
+# Notes
 
-### The box model : padding & margins
+## padding & margins
 - **margins** are used to control the position of an element relative to
   those around it
 - margin-left

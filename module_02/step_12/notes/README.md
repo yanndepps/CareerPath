@@ -1,6 +1,9 @@
-## Notes
+# Notes
+- [Notes](#notes)
+  - [borders](#borders)
+  - [wrap up](#wrap-up)
 
-### The box model : borders 
+## borders 
 - **borders** add a border to around our element
 - it takes **three** properties to set a border :
 - border-width
@@ -24,7 +27,7 @@
   }
   ```
   
-### Wrap up
+## wrap up
 - the total width and height of an element is calculated by adding all the 
   different parts of the element together
 - the four parts of an element :

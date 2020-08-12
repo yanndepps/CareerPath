@@ -1,6 +1,6 @@
-## Notes
+# Notes
 
-### External CSS
+# External CSS
 - with an external CSS file, we can have one stylesheet 
   controlling *all* of our pages at the same time
 - we use a *link* which links to our CSS file

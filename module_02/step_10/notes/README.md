@@ -1,6 +1,6 @@
-## Notes
+# Notes
 
-### The box model
+## The box model
 - most elements are _block level_ elements by default
 - they have a width of 100% of their parent
 - they have a height of 0

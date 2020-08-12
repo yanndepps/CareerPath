@@ -1,6 +1,5 @@
-## Notes
-
-### Images
+# Notes
+## Images
 
 - images are like links, in that they require an **attribute** to work.
 - a link uses an _href_ attribute to link to another file.

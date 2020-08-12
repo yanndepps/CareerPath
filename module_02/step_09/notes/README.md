@@ -1,11 +1,16 @@
-## Notes
+# Notes
+- [Notes](#notes)
+  - [three primary ways to select something](#three-primary-ways-to-select-something)
+  - [classes](#classes)
+  - [IDs](#ids)
+  - [ID vs class](#id-vs-class)
 
-### Three primary ways to select something
+## three primary ways to select something
 1. **Element** selector
 2. **Class** selector
 3. **ID** selector
 
-### Classes
+## classes
 - are a type of attribute we can add to an HTML element
   ```
   <p class="intro"> ... </p>
@@ -19,7 +24,7 @@
   }
   ```
   
-### IDs
+## IDs
 - are a type of attribute we can add to an HTML element
   ```
   <p id="intro"> ... </p>
@@ -30,9 +35,9 @@
   #intro {
     font-size: 18px;
   }
-```
+  ```
 
-### ID vs Class
+## ID vs class
 - an ID is an individual
 - a class is a group
 - an ID can only be used one time per page
