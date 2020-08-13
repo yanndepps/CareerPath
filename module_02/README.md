@@ -1,0 +1,16 @@
+## HTML & CSS Basics
+- contents :
+  - [basics](step_01/README.md)
+  - [intro to CSS](step_02/README.md)
+  - [CSS basics](step_03/README.md)
+  - [lists](step_04/README.md)
+  - [images](step_05/README.md)
+  - [internal CSS](step_07/README.md)
+  - [external CSS](step_08/README.md)
+  - [classes & IDs](step_09/README.md)
+  - [the box model](step_10/README.md)
+  - [margin & padding](step_11/README.md)
+  - [borders](step_12/README.md)
+  - [basic layout](step_13/README.md)
+  - [center elements](step_14/README.md)
+  - [flexbox](step_15/README.md)
