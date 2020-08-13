@@ -5,4 +5,4 @@
 
 ### modules
 - [HTML & CSS Basics](module_02/step_01/README.md)
-- [Making websites interactive](module_03/step_01/notes/README.md) 
+- [Making websites interactive](module_03/step_01/README.md) 
