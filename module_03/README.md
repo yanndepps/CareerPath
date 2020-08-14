@@ -15,5 +15,6 @@
      - [objects part 1](step_11/README.md)
      - [objects part 2](step_12/README.md)
      - [conditionals](step_13/README.md)
+     - [challenge](step_14/README.md)
   3. intro to the DOM
   4. a diary app
