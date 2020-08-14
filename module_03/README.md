@@ -10,5 +10,10 @@
      - [reassigning a variable](step_07/README.md)
      - [creating a counter app](step_08/README.md)
   2. intro to JavaScript
+     - [data types](step_09/README.md)
+     - [arrays](step_10/README.md)
+     - [objects part 1](step_11/README.md)
+     - [objects part 2](step_12/README.md)
+     - [conditionals](step_13/README.md)
   3. intro to the DOM
   4. a diary app
