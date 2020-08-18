@@ -22,16 +22,16 @@
 // myFunc([1,2,3,4]);
 // myFunc({name: 'joe'});
 
-const numArray = [1,2,3,4,5,6];
-let message = '';
+const numArray = [1, 2, 3, 4, 5, 6];
+let message = "";
 
 function loopArray(array) {
-  for(let i = 0; i < array.length; i++) {
+  for (let i = 0; i < array.length; i++) {
     if (array[i] % 2 === 0) {
-      message = i + ' is odd';
+      message = i + " is odd";
       console.log(message);
     } else {
-      message = i + ' is even';
+      message = i + " is even";
       console.log(message);
     }
   }

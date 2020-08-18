@@ -1,7 +1,7 @@
 // const colors = ['snail-paced soft pink', 'unsealed mahogany', 'lousy watermelon', 'ectophytic light grey blue', 'store bright yellow'];
 // console.log(colors[1]);
 
-// returns null if the index does not exist 
+// returns null if the index does not exist
 // pre-built properties :
 // 1. length
 // console.log(colors.length);

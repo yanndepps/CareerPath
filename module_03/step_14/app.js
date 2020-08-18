@@ -24,7 +24,6 @@
 //   console.log(`${person.name} is not allowed to go to the movie!`);
 // }
 
-
 // -------- 3 --------
 // if (person.age >= 18 && person.name[0] === 'B') {
 //   console.log(`${person.name} is allowed to go to the movie!`);

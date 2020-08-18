@@ -55,40 +55,44 @@
 
 const movieGoers = [
   {
-    name: 'Mike',
+    name: "Mike",
     age: 12,
-    gender: 'male'
+    gender: "male",
   },
   {
-    name: 'Madeline',
+    name: "Madeline",
     age: 80,
-    gender: 'female'
+    gender: "female",
   },
   {
-    name: 'Cheryl',
+    name: "Cheryl",
     age: 22,
-    gender: 'female'
+    gender: "female",
   },
   {
-    name: 'Sam',
+    name: "Sam",
     age: 30,
-    gender: 'male'
+    gender: "male",
   },
   {
-    name: 'Suzy',
-    age: '4',
-    gender: 'female'
-  }
-]
+    name: "Suzy",
+    age: "4",
+    gender: "female",
+  },
+];
 
 for (let i = 0; i < movieGoers.length; i++) {
-  if (movieGoers[i].age >= 18 && movieGoers[i].gender === 'male') {
-    console.log(`${movieGoers[i].name} is old enough. He is good to see the movie`);
-  } else if (movieGoers[i].age >= 18 && movieGoers[i].gender === 'female') {
-    console.log(`${movieGoers[i].name} is old enough. She is good to see the movie`);
-  } else if (movieGoers[i].age < 18 && movieGoers[i].gender === 'male') {
+  if (movieGoers[i].age >= 18 && movieGoers[i].gender === "male") {
+    console.log(
+      `${movieGoers[i].name} is old enough. He is good to see the movie`
+    );
+  } else if (movieGoers[i].age >= 18 && movieGoers[i].gender === "female") {
+    console.log(
+      `${movieGoers[i].name} is old enough. She is good to see the movie`
+    );
+  } else if (movieGoers[i].age < 18 && movieGoers[i].gender === "male") {
     console.log(`${movieGoers[i].name} is not old enough, don't let him in`);
-  } else if (movieGoers[i].age < 18 && movieGoers[i].gender === 'female') {
+  } else if (movieGoers[i].age < 18 && movieGoers[i].gender === "female") {
     console.log(`${movieGoers[i].name} is not old enough, don't let her in`);
   }
 }

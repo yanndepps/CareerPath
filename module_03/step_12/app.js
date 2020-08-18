@@ -1,12 +1,12 @@
 const car = {
-  type: 'honda',
-  make: 'civic',
+  type: "honda",
+  make: "civic",
   wheel: 4,
-  honkSound: 'BLLEERP',
+  honkSound: "BLLEERP",
   honk: function () {
     console.log(this.honkSound);
-  }
-}
+  },
+};
 
 // how to add properties to an object :
 // car.hasHadAccident = true;
@@ -22,7 +22,7 @@ const car = {
 
 // Objects and Arrays are passed by reference : how variables interact with this piece of data :
 const newCar = car;
-newCar.type = 'jeep';
+newCar.type = "jeep";
 console.log(newCar.type);
 console.log(car.type);
 
