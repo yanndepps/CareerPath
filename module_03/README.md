@@ -23,4 +23,5 @@
   3. intro to the DOM
      - [what is?](step_19/README.md)
      - [selecting elements](step_20/README.md)
+     - [selecting multiple elements](step_21/README.md)
   4. a diary app
