@@ -9,6 +9,6 @@
 // textChanged.textContent = textGrab.textContent;
 // console.log(textChange);
 
-const text = document.querySelector('#header').textContent;
-document.querySelector('#paragraph').textContent = text;
+const text = document.querySelector("#header").textContent;
+document.querySelector("#paragraph").textContent = text;
 console.log(text);

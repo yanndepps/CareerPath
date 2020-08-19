@@ -1,3 +1,3 @@
-let header = document.getElementById('header');
+let header = document.getElementById("header");
 // console.log(Object.keys(header.style));
-header.style.color = 'blue';
+header.style.color = "blue";
