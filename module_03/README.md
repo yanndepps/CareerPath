@@ -21,4 +21,5 @@
      - [social js](step_17/README.md)
      - [conventions](step_18/README.md)
   3. intro to the DOM
+     - [what is?](step_19/README.md)
   4. a diary app
