@@ -25,4 +25,5 @@
      - [selecting elements](step_20/README.md)
      - [selecting multiple elements](step_21/README.md)
      - [querySelector's](step_22/README.md)
+     - [modifying an element's text](step_23/README.md)
   4. a diary app
