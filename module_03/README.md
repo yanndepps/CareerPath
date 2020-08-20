@@ -28,4 +28,5 @@
      - [modifying an element's text](step_23/README.md)
      - [modifying styles](step_24/README.md)
      - [className & classList](step_25/README.md)
+     - [value](step_26/README.md)
   4. a diary app
