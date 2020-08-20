@@ -6,7 +6,7 @@
 //     }
 // });
 
-const button = document.getElementById('button');
+const button = document.getElementById("button");
 
 // using anonymous function
 // button.addEventListener('click', function() {
@@ -15,18 +15,18 @@ const button = document.getElementById('button');
 
 // defining a function first
 function handleButtonClick() {
-  console.log('button clicked!');
-  document.body.style.backgroundColor = '#BE03FD';
-  this.removeEventListener('click', handleButtonClick);
+  console.log("button clicked!");
+  document.body.style.backgroundColor = "#BE03FD";
+  this.removeEventListener("click", handleButtonClick);
 }
 
-button.addEventListener('click', handleButtonClick);
+button.addEventListener("click", handleButtonClick);
 
 // note : adding parenthesis to a function is telling the function to happen right now -> handleButtonClick()
 
 // look up some common HTML/JS events and set up your page to listen for that event.
 
-document.getElementById('header').addEventListener('dblclick', function() {
-  console.log('header has been double clicked now!');
-  document.body.style.backgroundColor = '#C1C6FC';
+document.getElementById("header").addEventListener("dblclick", function () {
+  console.log("header has been double clicked now!");
+  document.body.style.backgroundColor = "#C1C6FC";
 });

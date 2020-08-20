@@ -1,25 +1,25 @@
 const powerRangers = [
   {
     name: "Jason Lee Scott",
-    color: 'red'
+    color: "red",
   },
   {
     name: "Kimberly Hart",
-    color: "pink"
+    color: "pink",
   },
   {
     name: "Zack Taylor",
-    color: "black"
+    color: "black",
   },
   {
     name: "Trini Kwan",
-    color: "blue"
+    color: "blue",
   },
   {
     name: "Billy Cranston",
-    color: "green"
-  }
-]
+    color: "green",
+  },
+];
 
 /**
  * to place one element only :
@@ -31,11 +31,11 @@ const powerRangers = [
  *
  */
 
-const rangerList = document.getElementById('rangers');
+const rangerList = document.getElementById("rangers");
 
 for (let i = 0; i < powerRangers.length; i++) {
-  const newName = document.createElement('li');
-  newName.textContent = powerRangers[i].name + ' : ' + powerRangers[i].color;
+  const newName = document.createElement("li");
+  newName.textContent = powerRangers[i].name + " : " + powerRangers[i].color;
   rangerList.append(newName);
 }
 
