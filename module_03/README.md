@@ -32,4 +32,5 @@
      - [creating elements in JS](step_27/README.md)
      - [innerHTML](step_28/README.md)
      - [for loops + createElements](step_29/README.md)
+     - [event listeners](step_30/README.md)
   4. a diary app
