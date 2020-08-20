@@ -35,3 +35,4 @@
      - [event listeners](step_30/README.md)
   4. a diary app
      - [input fields](step_31/README.md)
+     - [styling](step_32/README.md)
