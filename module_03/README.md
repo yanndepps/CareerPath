@@ -29,4 +29,5 @@
      - [modifying styles](step_24/README.md)
      - [className & classList](step_25/README.md)
      - [value](step_26/README.md)
+     - [creating elements in JS](step_27/README.md)
   4. a diary app
