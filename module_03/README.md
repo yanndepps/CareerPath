@@ -38,3 +38,5 @@
      - [styling](step_32/README.md)
      - [prevent page reload](step_33/README.md)
      - [user input](step_34/README.md)
+     - [add inputs to DOM](step_35/README.md)
+     - [style entries section](step_36/README.md)
