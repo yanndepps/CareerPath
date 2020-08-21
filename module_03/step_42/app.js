@@ -6,7 +6,6 @@ let count = 1;
 
 function addEntryToDom(e) {
   e.preventDefault();
-  // console.log(entryTextbox[0].value);
   const entryDiv = document.createElement("div");
   entryDiv.classList.add("single-entry");
   entryDiv.innerText = entryTextbox.value;
@@ -20,6 +19,10 @@ function addEntryToDom(e) {
   entriesNav.append(displayEntryBtn);
 
   displayEntryBtn.addEventListener("click", function () {
+    const allEntries = document.querySelectorAll(".single-entry");
+    for (let i = 0; i < allEntries.length; i++) {
+      allEntries[i].style.display = "none";
+    }
     entryDiv.style.display = "block";
   });
 

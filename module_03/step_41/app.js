@@ -19,8 +19,8 @@ function addEntryToDom(e) {
   displayEntryBtn.innerText = count;
   entriesNav.append(displayEntryBtn);
 
-  displayEntryBtn.addEventListener('click', function() {
-    entryDiv.style.display = 'block';
+  displayEntryBtn.addEventListener("click", function () {
+    entryDiv.style.display = "block";
   });
 
   count++;
