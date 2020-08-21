@@ -41,3 +41,4 @@
      - [add inputs to DOM](step_35/README.md)
      - [style entries section](step_36/README.md)
      - [clear entries textbox](step_37/README.md)
+     - [hide user entry](step_38/README.md)
