@@ -40,3 +40,4 @@
      - [user input](step_34/README.md)
      - [add inputs to DOM](step_35/README.md)
      - [style entries section](step_36/README.md)
+     - [clear entries textbox](step_37/README.md)
