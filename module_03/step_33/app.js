@@ -3,7 +3,7 @@
    to make its value the entryForm from our HTML document.
 */
 
-const entryForm = document.getElementById('entryform');
+const entryForm = document.getElementById("entryform");
 
 /*
  - Add an event listener to the entryForm variable that prevents the page from
@@ -18,7 +18,7 @@ const entryForm = document.getElementById('entryform');
 // or with function definition
 function addEntryToDom(e) {
   e.preventDefault();
-  console.log('clicked no submit!');
+  console.log("clicked no submit!");
 }
 
-entryForm.addEventListener('submit', addEntryToDom);
+entryForm.addEventListener("submit", addEntryToDom);

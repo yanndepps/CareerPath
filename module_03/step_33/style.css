@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans&display=swap");
 
 body {
   display: grid;
   justify-content: center;
   margin: 5%;
   padding: 0;
-  font-family:'Work Sans', sans-serif;
+  font-family: "Work Sans", sans-serif;
 }
 
 .title {
-  color: #FA4224;
+  color: #fa4224;
   text-align: center;
   margin-bottom: 1em;
 }
 
 .entry-textbox {
-  background-color: #FDDC5C;
+  background-color: #fddc5c;
   width: 20em;
   height: 10em;
   padding: 1em;
