@@ -1,4 +1,5 @@
 ## HTML & CSS Basics
+
 - contents :
   - [basics](step_01/README.md)
   - [intro to CSS](step_02/README.md)
@@ -14,3 +15,6 @@
   - [basic layout](step_13/README.md)
   - [center elements](step_14/README.md)
   - [flexbox](step_15/README.md)
+- challenges :
+  - [blank page](challenge_01/README.md)
+  - [add lists](challenge_02/README.md)
