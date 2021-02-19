@@ -18,3 +18,6 @@
 - challenges :
   - [blank page](challenge_01/README.md)
   - [add lists](challenge_02/README.md)
+  - [fix image](challenge_03/README.md)
+  - [add style](challenge_04/README.md)
+  - [styling title bar](challenge_05/README.md)
