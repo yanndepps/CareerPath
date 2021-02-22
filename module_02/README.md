@@ -21,3 +21,4 @@
   - [fix image](challenge_03/README.md)
   - [add style](challenge_04/README.md)
   - [styling title bar](challenge_05/README.md)
+  - [styling subheadings](challenge_06/README.md)
