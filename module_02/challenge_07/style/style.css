@@ -18,3 +18,7 @@ h1 {
   padding: 20px;
   border-bottom: 5px solid #fcd801;
 }
+
+.white-text {
+  color: #fff;
+}

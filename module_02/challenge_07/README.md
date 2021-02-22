@@ -1,8 +1,6 @@
-# Challenge 06
+# Challenge 07
 
-## Styling the subheadings
+## Some extra style
 
-- no extra HTML
-- add the same class to both headings
-- font size of 48px
-- colors : #FCD801, #281B2D & #00C54C
+- **strong** and **em** are inline elements which come with predifined style ( and meaning )
+- use **span** for extra styling
