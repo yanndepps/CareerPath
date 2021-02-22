@@ -52,6 +52,7 @@ a:hover {
   width: 30%;
   background: #9ae84f;
   padding: 15px;
+  box-shadow: 2px 4px 1px rgba(0, 0, 0, 0.5);
 }
 
 .source {
