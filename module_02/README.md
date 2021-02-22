@@ -24,3 +24,4 @@
   - [styling subheadings](challenge_06/README.md)
   - [containing layout](challenge_08/README.md)
   - [creating columns](challenge_09/README.md)
+  - [styling the sidebar](challenge_10/README.md)
